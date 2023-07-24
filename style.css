@@ -193,7 +193,7 @@ h1 {
         background-repeat: no-repeat;
         background-size: 100%;
         background-position-x: -90px;
-        background-position-y: -40px;
+        background-position-y: 20%;
     }
 
     .illustration {
@@ -213,8 +213,8 @@ h1 {
         width: 140px;
         height: 190px;
         position: absolute;
-        top: 150px;
-        left: -100px;
+        top: 30%;
+        left: -25%;
         z-index: 1;
     }
 }
